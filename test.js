@@ -1,6 +1,7 @@
 class Student {
     constructor(marks) {
         this.marks = marks;
+        
       }
     }
     
