@@ -18,3 +18,4 @@ class Student {
        console.log(students[i])
 
     }
+console.log("hello world")

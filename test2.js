@@ -18,3 +18,4 @@ const nishantobj = new person("Nishant",22)
 console.log(nishantobj)
 
 console.log("helllo")
+console.log("hello world")
